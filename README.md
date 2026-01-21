@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>我的个人网站</title>
+
+  <style>
+    body {
+      background: linear-gradient(120deg, #89f7fe, #66a6ff);
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .card {
+      background: white;
+      width: 400px;
+      margin: 120px auto;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #555;
+    }
+  </style>
+
+</head>
+<body>
+
+  <div class="card">
+    <h1>你好，我是 许升升</h1>
+    <p>这是我的第一个个人网站</p>
+  </div>
+
+</body>
+</html>
